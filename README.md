@@ -1,2 +1,1 @@
-# hey
-thingy
+https://discord.com/api/webhooks/1391192396020187197/Mhkv9cwmQQT9C2B1qv52uRFOQp3ZwT6rI5M9Ewl4xlqa3P1Qm6bAE3-aCUH7zd1h2HwR
